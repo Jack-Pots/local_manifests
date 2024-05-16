@@ -15,4 +15,5 @@
  
  <!--Extras -->
  <!--<project path="packages/resources/devicesettings" name="LineageOS/android_packages_resources_devicesettings" remote="gh" revision="cm-14.1" /> -->
+<project path="hardware/xiaomi" name="PixelOS-AOSP/hardware_xiaomi" remote="gh" revision="fourteen" />
 </manifest>
