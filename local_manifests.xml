@@ -14,6 +14,6 @@
  <project path="vendor/samsung/on7xelte" name="DevOtag-Open-Source/android_vendor_samsung_on7xelte" remote="gh" revision="eleven" />
  
  <!--Extras -->
- <project path="packages/resources/devicesettings" name="LineageOS/android_packages_resources_devicesettings" remote="gh" revision="lineage-17.1" /> 
+<!-- <project path="packages/resources/devicesettings" name="LineageOS/android_packages_resources_devicesettings" remote="gh" revision="lineage-17.1" />  -->
  <project path="hardware/samsung" name="LineageOS/android_hardware_samsung" remote="gh" revision="lineage-17.1" />
 </manifest>
