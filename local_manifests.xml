@@ -5,15 +5,15 @@
             fetch="https://github.com"
             clone-depth="1" />
  <!--Tree -->
- <project path="device/xiaomi/surya" name="Jack-Pots/android_device_xiaomi_karna-PixelOS" remote="gh" revision="PixelOS-14" />
+ <project path="device/samsung/on7xelte" name="Jack-Pots/android_device_samsung_on7xelte" remote="gh" revision="eleven" />
 
  <!--Kernel -->
- <project path="kernel/xiaomi/surya" name="CHRISL7/kernel_xiaomi_surya" remote="gh" revision="uvite" />
+ <project path="kernel/samsung/exynos7870" name="DevOtag-Open-Source/android_kernel_samsung_exynos7870" remote="gh" revision="eleven" />
  
  <!--Vendor -->
- <project path="vendor/xiaomi/surya" name="xiaomi-surya/android_vendor_xiaomi_surya" remote="gh" revision="lineage-21" />
+ <project path="vendor/samsung/on7xelte" name="DevOtag-Open-Source/android_vendor_samsung_on7xelte" remote="gh" revision="eleven" />
  
  <!--Extras -->
- <!--<project path="packages/resources/devicesettings" name="LineageOS/android_packages_resources_devicesettings" remote="gh" revision="cm-14.1" /> -->
-<project path="hardware/xiaomi" name="PixelOS-AOSP/hardware_xiaomi" remote="gh" revision="fourteen" />
+ <project path="packages/resources/devicesettings" name="LineageOS/android_packages_resources_devicesettings" remote="gh" revision="lineage-17.1" /> 
+ <project path="hardware/samsung" name="LineageOS/android_hardware_samsung" remote="gh" revision="lineage-17.1" />
 </manifest>
