@@ -8,7 +8,7 @@
  <project path="device/samsung/on7xelte" name="Jack-Pots/android_device_samsung_on7xelte" remote="gh" revision="ten" />
 
  <!--Kernel -->
- <project path="kernel/samsung/exynos7870" name="DevOtag-Open-Source/android_kernel_samsung_exynos7870" remote="gh" revision="eleven" />
+ <project path="kernel/samsung/exynos7870" name="Jack-Pots/android_kernel_samsung_on7xelte" remote="gh" revision="eleven" />
  
  <!--Vendor -->
  <project path="vendor/samsung/on7xelte" name="DevOtag-Open-Source/android_vendor_samsung_on7xelte" remote="gh" revision="eleven" />
