@@ -8,7 +8,7 @@
  <project path="device/xiaomi/surya" name="Jack-Pots/android_device_xiaomi_karna-1" remote="gh" revision="Pixel-14" />
 
  <!--Kernel -->
- <project path="kernel/xiaomi/surya" name="CHRISL7/kernel_xiaomi_surya" remote="gh" revision="uvite" />
+ <project path="kernel/xiaomi/surya" name="sounddrill31/kernel_xiaomi_surya" remote="gh" revision="PixelOS-14" />
  
  <!--Vendor -->
  <project path="vendor/xiaomi/surya" name="xiaomi-surya/android_vendor_xiaomi_surya" remote="gh" revision="lineage-21" />
