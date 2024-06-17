@@ -11,7 +11,7 @@
  <project path="kernel/xiaomi/surya" name="sounddrill31/kernel_xiaomi_surya" remote="gh" revision="PixelOS-14" />
  
  <!--Vendor -->
- <project path="vendor/xiaomi/surya" name="xiaomi-surya/android_vendor_xiaomi_surya" remote="gh" revision="lineage-21" />
+ <project path="vendor/xiaomi/surya" name="subhajeetmuhuri/proprietary_vendor_xiaomi_surya" remote="gh" revision="lineage-21" />
  
  <!--Extras -->
  <!--<project path="packages/resources/devicesettings" name="LineageOS/android_packages_resources_devicesettings" remote="gh" revision="cm-14.1" /> -->
