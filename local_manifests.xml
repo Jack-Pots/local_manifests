@@ -5,10 +5,10 @@
             fetch="https://github.com"
             clone-depth="1" />
  <!--Tree -->
- <project path="device/samsung/on7xelte" name="Jack-Pots/android_device_samsung_on7xelte" remote="gh" revision="ten" />
+ <project path="device/samsung/on7xelte" name="Jack-Pots/android_device_samsung_on7xelte" remote="gh" revision="ten-crave" />
 
  <!--Kernel -->
- <project path="kernel/samsung/exynos7870" name="Jack-Pots/android_kernel_samsung_on7xelte" remote="gh" revision="eleven" />
+ <project path="kernel/samsung/exynos7870" name="samsungexynos7870/android_kernel_samsung_exynos7870" remote="gh" revision="simple_q_enforcing" />
  
  <!--Vendor -->
  <project path="vendor/samsung/on7xelte" name="DevOtag-Open-Source/android_vendor_samsung_on7xelte" remote="gh" revision="eleven" />
