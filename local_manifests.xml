@@ -4,6 +4,10 @@
     <remote name="gh"
             fetch="https://github.com"
             clone-depth="1" />
+   <remote  name="aosp-los18"
+            fetch="https://android.googlesource.com"
+            review="android-review.googlesource.com"
+            revision="refs/tags/android-11.0.0_r46" />
  <!--Tree -->
  <project path="device/samsung/on7xelte" name="Jack-Pots/android_device_samsung_on7xelte" remote="gh" revision="ten-crave" />
 
@@ -16,4 +20,5 @@
  <!--Extras -->
 <!-- <project path="packages/resources/devicesettings" name="LineageOS/android_packages_resources_devicesettings" remote="gh" revision="lineage-17.1" />  -->
  <project path="hardware/samsung" name="LineageOS/android_hardware_samsung" remote="gh" revision="lineage-17.1" />
+<project path="prebuilts/vndk/v29" name="platform/prebuilts/vndk/v29" groups="pdk" clone-depth="1" remote="aosp-los18" />
 </manifest>
